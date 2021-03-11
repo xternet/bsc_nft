@@ -2,7 +2,7 @@
   "name": "bsc_nft",
   "version": "1.0.0",
   "description": "NFT on Binance Smart Chain",
-  "author": "dev@dappuniversity.com",
+  "author": "github.com/xternet",
   "dependencies": {
     "@openzeppelin/contracts": "3.4.1",
     "@truffle/hdwallet-provider": "1.2.2",
